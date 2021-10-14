@@ -1,2 +1,38 @@
-package com.TSITraining.Library;public class Internet {
+package com.TSITraining.Library;
+
+public class Internet extends Multimedia {
+    /////////////////////////Attributes\\\\\\\\\\\\\\\\\\\\
+
+
+
+
+
+
+
+
+
+
+
+
+    ///////////////////////////Constructor\\\\\\\\\\\\\\\\\
+
+
+
+
+
+
+
+
+
+
+    /////////////////////////Method\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+
+
+
+
+
+
+
 }

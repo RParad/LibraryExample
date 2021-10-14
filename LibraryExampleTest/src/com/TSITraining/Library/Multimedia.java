@@ -1,2 +1,38 @@
-package com.TSITraining.Library;public class Multimedia {
+package com.TSITraining.Library;
+
+public abstract class Multimedia extends LibraryItems{
+    /////////////////////////Attributes\\\\\\\\\\\\\\\\\\\\
+
+
+
+
+
+
+
+
+
+
+
+
+    ///////////////////////////Constructor\\\\\\\\\\\\\\\\\
+
+
+
+
+
+
+
+
+
+
+    /////////////////////////Method\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+
+
+
+
+
+
+
 }

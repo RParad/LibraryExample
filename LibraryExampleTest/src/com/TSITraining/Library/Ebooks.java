@@ -1,2 +1,4 @@
-package com.TSITraining.Library;public interface Ebooks {
+package com.TSITraining.Library;
+
+public interface Ebooks {
 }
